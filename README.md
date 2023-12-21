@@ -1,4 +1,4 @@
-# LINE VOOM MID ROBBER
+# LINE VOOM MID ROBBER (VOOMID)
 
 LINE VOOMの投稿から連絡先・midを抜けるサイト
 
