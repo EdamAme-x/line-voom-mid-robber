@@ -9,3 +9,5 @@ PR前にはformatを必ずお願いします。
 
 ## BACKEND
 非公開です。
+
+詳細は [@amex2189](https://twitter.com/amex2189) まで
